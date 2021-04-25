@@ -1,0 +1,17 @@
+Switch 2 varas w/o an auxiliar variable
+
+Pre-reqs:
+
+A+B doesn't overflow
+A-B and B-A don't underflow
+
+
+1)
+B=A-B
+A=B-A
+B=B-A
+
+2)
+B=A-B
+A=A-B
+B=A-B
