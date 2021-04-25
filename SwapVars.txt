@@ -14,4 +14,4 @@ B=B-A
 2)
 B=A-B
 A=A-B
-B=A-B
+B=A+B
